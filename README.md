@@ -25,6 +25,30 @@ https://github.com/user-attachments/assets/9dcbb277-55f2-406d-9ee8-d0ea874e2f1f
 https://github.com/user-attachments/assets/65f1c7bd-b1ff-4ccd-8aed-e9a82b2b60f4
 
 
+## Software requirement
+
+Matlab codes for RuffleSegmentation run on top of the Matlab package "u-segment" by Danuser lab ([u-segment](https://github.com/DanuserLab/u-segment)).
+
+## Main function
+
+Run [ML_ruffleSegmentation()](https://github.com/JungsikNoh/RuffleSegmentation/blob/main/code/RuffleSegmentation/ML_ruffleSegmentation.m)
+to process a list of movie data objects. 
+
+## More information
+- [Output examples](example_of_output/08262023-subset)  
+
+## Contact
+
+Jungsik Noh (jungsik.noh@utsouthwestern.edu)
+
+
+
+
+
+
+
+
+
 
 
 
