@@ -26,6 +26,11 @@ https://github.com/user-attachments/assets/65f1c7bd-b1ff-4ccd-8aed-e9a82b2b60f4
 
 - Truncate the first and last 25 time frames (for example) because moving medians are ill-defined at the beginning and ending.
 
+> Another example of ruffle segmentation
+
+https://github.com/user-attachments/assets/fb35ce7d-f570-4290-90ca-22add2f1c969
+
+
 
 
 ## Software requirement
